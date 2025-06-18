@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-17 22:25+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_11.cpp:2
+msgid "Font percent size ( 100 - 200 )"
+msgstr "Kích thước phần trăm phông chữ ( 100 - 200 )"
+
+#: main_11.cpp:4
+msgid "Enter the font percentage size ( 100 - 200 )"
+msgstr "Nhập kích thước phần trăm phông chữ ( 100 - 200 )"
+
+#: main_11.cpp:6
+msgid "Font percentage size  -  Enter 100 for score numbers with"
+msgstr "Kích thước phần trăm phông chữ - Nhập 100 cho số điểm với"
+
+#: main_11.cpp:8
+msgid "a normal font size, up to 200 for twice the normal size."
+msgstr "cỡ chữ bình thường, tối đa 200 cho cỡ chữ gấp đôi bình thường."
+
+#: main_11.cpp:10
+msgid "Window stays visible"
+msgstr "Cửa sổ vẫn hiển thị"
+
+#: main_11.cpp:12
+msgid "Main window stays visible when other program windows are clicked"
+msgstr "Cửa sổ chính vẫn hiển thị khi nhấp vào các cửa sổ chương trình khác"
+
+#: main_11.cpp:14
+msgid "I find it convenient to switch on < Options > < Window stays visible >"
+msgstr "Tôi thấy thuận tiện khi bật <Tùy chọn> <Cửa sổ vẫn hiển thị>"
+
+#: main_11.cpp:16
+msgid "during this activity, so that the Nimzo_3d window stays open"
+msgstr "trong hoạt động này, để cửa sổ Nimzo_3d vẫn mở"
+
+#: main_11.cpp:18
+msgid "when you click on the PDF program window."
+msgstr "khi bạn nhấp vào cửa sổ chương trình PDF."
+
+#: main_11.cpp:20
+msgid "However, I would recommend switching this option off for all"
+msgstr "Tuy nhiên, tôi khuyên bạn nên tắt tùy chọn này cho tất cả"
+
+#: main_11.cpp:22
+msgid "other uses because it can interfere with other program functions."
+msgstr "những mục đích sử dụng khác vì nó có thể ảnh hưởng đến các chức năng khác của chương trình."
+
+#: main_11.cpp:24
+msgid "e.g. Opening the help file."
+msgstr "ví dụ: Mở tệp trợ giúp."
