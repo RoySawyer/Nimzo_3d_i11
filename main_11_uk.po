@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-17 22:25+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_11.cpp:2
+msgid "Font percent size ( 100 - 200 )"
+msgstr "Розмір шрифту у відсотках (100 - 200)"
+
+#: main_11.cpp:4
+msgid "Enter the font percentage size ( 100 - 200 )"
+msgstr "Введіть розмір шрифту у відсотках (100 - 200)"
+
+#: main_11.cpp:6
+msgid "Font percentage size  -  Enter 100 for score numbers with"
+msgstr "Розмір шрифту у відсотках – введіть 100 для чисел балів із"
+
+#: main_11.cpp:8
+msgid "a normal font size, up to 200 for twice the normal size."
+msgstr "звичайний розмір шрифту, до 200 для вдвічі більшого звичайного розміру."
+
+#: main_11.cpp:10
+msgid "Window stays visible"
+msgstr "Вікно залишається видимим"
+
+#: main_11.cpp:12
+msgid "Main window stays visible when other program windows are clicked"
+msgstr "Головне вікно залишається видимим, якщо клацнути на інших вікнах програми"
+
+#: main_11.cpp:14
+msgid "I find it convenient to switch on < Options > < Window stays visible >"
+msgstr "Мені зручно вмикати < Параметри > < Вікно залишається видимим >"
+
+#: main_11.cpp:16
+msgid "during this activity, so that the Nimzo_3d window stays open"
+msgstr "під час цієї дії, щоб вікно Nimzo_3d залишалося відкритим"
+
+#: main_11.cpp:18
+msgid "when you click on the PDF program window."
+msgstr "коли ви клацаєте на вікні програми PDF."
+
+#: main_11.cpp:20
+msgid "However, I would recommend switching this option off for all"
+msgstr "Однак, я б рекомендував вимкнути цю опцію для всіх"
+
+#: main_11.cpp:22
+msgid "other uses because it can interfere with other program functions."
+msgstr "інші способи використання, оскільки це може перешкоджати іншим функціям програми."
+
+#: main_11.cpp:24
+msgid "e.g. Opening the help file."
+msgstr "наприклад, відкриття файлу довідки."
