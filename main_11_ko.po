@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-17 22:25+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_11.cpp:2
+msgid "Font percent size ( 100 - 200 )"
+msgstr "글꼴 크기(100~200)"
+
+#: main_11.cpp:4
+msgid "Enter the font percentage size ( 100 - 200 )"
+msgstr "글꼴 백분율 크기를 입력하세요(100~200)"
+
+#: main_11.cpp:6
+msgid "Font percentage size  -  Enter 100 for score numbers with"
+msgstr "글꼴 백분율 크기 - 점수 숫자의 경우 100을 입력하십시오."
+
+#: main_11.cpp:8
+msgid "a normal font size, up to 200 for twice the normal size."
+msgstr "일반 글꼴 크기, 최대 200까지 일반 크기의 두 배로 표시."
+
+#: main_11.cpp:10
+msgid "Window stays visible"
+msgstr "창문이 계속 보입니다"
+
+#: main_11.cpp:12
+msgid "Main window stays visible when other program windows are clicked"
+msgstr "다른 프로그램 창을 클릭해도 메인 창이 계속 표시됩니다."
+
+#: main_11.cpp:14
+msgid "I find it convenient to switch on < Options > < Window stays visible >"
+msgstr "<옵션> <창이 계속 보이도록>을 켜는 것이 편리합니다."
+
+#: main_11.cpp:16
+msgid "during this activity, so that the Nimzo_3d window stays open"
+msgstr "이 활동 중에 Nimzo_3d 창이 계속 열려 있도록 합니다."
+
+#: main_11.cpp:18
+msgid "when you click on the PDF program window."
+msgstr "PDF 프로그램 창을 클릭하면 됩니다."
+
+#: main_11.cpp:20
+msgid "However, I would recommend switching this option off for all"
+msgstr "하지만 나는 이 옵션을 모든 것에 대해 끄는 것을 권장합니다."
+
+#: main_11.cpp:22
+msgid "other uses because it can interfere with other program functions."
+msgstr "다른 프로그램 기능을 방해할 수 있으므로 다른 용도로는 사용할 수 없습니다."
+
+#: main_11.cpp:24
+msgid "e.g. Opening the help file."
+msgstr "예를 들어 도움말 파일을 엽니다."
