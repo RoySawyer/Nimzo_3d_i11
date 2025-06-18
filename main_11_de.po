@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-17 22:25+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_11.cpp:2
+msgid "Font percent size ( 100 - 200 )"
+msgstr "Schriftgröße in Prozent ( 100 - 200 )"
+
+#: main_11.cpp:4
+msgid "Enter the font percentage size ( 100 - 200 )"
+msgstr "Geben Sie die Schriftgröße in Prozent ein ( 100 - 200 )"
+
+#: main_11.cpp:6
+msgid "Font percentage size  -  Enter 100 for score numbers with"
+msgstr "Schriftgröße in Prozent - Geben Sie 100 für Punktezahlen ein mit"
+
+#: main_11.cpp:8
+msgid "a normal font size, up to 200 for twice the normal size."
+msgstr "eine normale Schriftgröße, bis zu 200 für die doppelte normale Größe."
+
+#: main_11.cpp:10
+msgid "Window stays visible"
+msgstr "Fenster bleibt sichtbar"
+
+#: main_11.cpp:12
+msgid "Main window stays visible when other program windows are clicked"
+msgstr "Das Hauptfenster bleibt sichtbar, wenn auf andere Programmfenster geklickt wird"
+
+#: main_11.cpp:14
+msgid "I find it convenient to switch on < Options > < Window stays visible >"
+msgstr "Ich finde es praktisch, <Optionen> <Fenster bleibt sichtbar> einzuschalten."
+
+#: main_11.cpp:16
+msgid "during this activity, so that the Nimzo_3d window stays open"
+msgstr "während dieser Aktivität, damit das Nimzo_3d-Fenster geöffnet bleibt"
+
+#: main_11.cpp:18
+msgid "when you click on the PDF program window."
+msgstr "wenn Sie auf das PDF-Programmfenster klicken."
+
+#: main_11.cpp:20
+msgid "However, I would recommend switching this option off for all"
+msgstr "Ich würde jedoch empfehlen, diese Option für alle"
+
+#: main_11.cpp:22
+msgid "other uses because it can interfere with other program functions."
+msgstr "andere Verwendungszwecke, da es andere Programmfunktionen beeinträchtigen kann."
+
+#: main_11.cpp:24
+msgid "e.g. Opening the help file."
+msgstr "zB Öffnen der Hilfedatei."
